@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Tomás Balam Portillo Hall
 ---
 ## Sobre Mí
