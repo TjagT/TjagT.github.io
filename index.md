@@ -1,5 +1,5 @@
 ---
-title: Tomás Balam Portillo Hall
+layout: default
 ---
 ## Sobre Mí
 Soy un **QA Engineer** con un enfoque especial en la industria de los videojuegos. Mi camino no empezó con un manual de instrucciones, sino con una **curiosidad profunda** por entender cómo funcionan las cosas "bajo el capó".
