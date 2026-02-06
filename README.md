@@ -1,2 +1,2 @@
-#TjagT github website
+# TjagT github website
 Personal website project
